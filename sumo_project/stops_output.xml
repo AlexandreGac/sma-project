@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-04-29 10:50:13 by Eclipse SUMO GUI Version 1.19.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="C:\Users\ALGAC\OneDrive\Bureau\SMA\Projet\sumo_project\osm.net.xml.gz"/>
+        <route-files value="C:\Users\ALGAC\OneDrive\Bureau\SMA\Projet\sumo_project\trips/osm.passenger_0.rou.xml,C:\Users\ALGAC\OneDrive\Bureau\SMA\Projet\sumo_project\trips/osm.passenger_1.rou.xml,C:\Users\ALGAC\OneDrive\Bureau\SMA\Projet\sumo_project\trips/osm.passenger_2.rou.xml,C:\Users\ALGAC\OneDrive\Bureau\SMA\Projet\sumo_project\trips/osm.passenger_3.rou.xml,C:\Users\ALGAC\OneDrive\Bureau\SMA\Projet\sumo_project\trips/osm.passenger_4.rou.xml,C:\Users\ALGAC\OneDrive\Bureau\SMA\Projet\sumo_project\trips/osm.pedestrian_0.rou.xml,C:\Users\ALGAC\OneDrive\Bureau\SMA\Projet\sumo_project\trips/osm.pedestrian_1.rou.xml,C:\Users\ALGAC\OneDrive\Bureau\SMA\Projet\sumo_project\trips/osm.pedestrian_2.rou.xml,C:\Users\ALGAC\OneDrive\Bureau\SMA\Projet\sumo_project\trips/osm.pedestrian_3.rou.xml,C:\Users\ALGAC\OneDrive\Bureau\SMA\Projet\sumo_project\trips/osm.pedestrian_4.rou.xml,C:\Users\ALGAC\OneDrive\Bureau\SMA\Projet\sumo_project\bus_routes.rou.xml,C:\Users\ALGAC\OneDrive\Bureau\SMA\Projet\sumo_project\trips/bus_rides.rou.xml"/>
+        <additional-files value="C:\Users\ALGAC\OneDrive\Bureau\SMA\Projet\sumo_project\osm.poly.xml.gz,C:\Users\ALGAC\OneDrive\Bureau\SMA\Projet\sumo_project\bus_stops.add.xml"/>
+    </input>
+
+    <output>
+        <tripinfo-output value="C:\Users\ALGAC\OneDrive\Bureau\SMA\Projet\sumo_project\trips_output.xml"/>
+        <stop-output value="C:\Users\ALGAC\OneDrive\Bureau\SMA\Projet\sumo_project\stops_output.xml"/>
+    </output>
+
+    <processing>
+        <ignore-route-errors value="true"/>
+    </processing>
+
+    <routing>
+        <device.rerouting.adaptation-steps value="18"/>
+        <device.rerouting.adaptation-interval value="10"/>
+    </routing>
+
+    <report>
+        <verbose value="true"/>
+        <duration-log.statistics value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+    <gui_only>
+        <gui-settings-file value="C:\Users\ALGAC\OneDrive\Bureau\SMA\Projet\sumo_project\osm.view.xml"/>
+    </gui_only>
+
+</configuration>
+-->
+
+<stops xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/stopinfo_file.xsd">
+</stops>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-04-21 15:58:34 by Eclipse SUMO netedit Version 1.19.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- StoppingPlaces -->
+    <busStop id="bs_0" name="Noisy-Champs RER - Descartes" lane="1103976375_1" startPos="48.42" endPos="58.42" lines="312"/>
+    <busStop id="bs_1" name="Crous" lane="405494696#0_1" startPos="38.54" endPos="48.54" lines="100,212,213,312"/>
+    <busStop id="bs_10" name="Galilee - Pascal" lane="23714277#4_1" startPos="7.72" endPos="17.72" lines="213" personCapacity="50"/>
+    <busStop id="bs_11" name="Bois de lEtang - Universite" lane="27282358#13_0" startPos="4.71" endPos="14.71" lines="213,312" personCapacity="50"/>
+    <busStop id="bs_12" name="Einstein - Galilee" lane="27282358#2_1" startPos="31.89" endPos="41.89" lines="213,312" personCapacity="50"/>
+    <busStop id="bs_13" name="Bois de lEtang - Universite" lane="-27282358#12_0" startPos="2.28" endPos="12.28" lines="213,312" personCapacity="50"/>
+    <busStop id="bs_14" name="Einstein - Galilee" lane="-27282358#0_1" startPos="3.27" endPos="13.27" lines="213,312" personCapacity="50"/>
+    <busStop id="bs_15" name="Espace Descartes" lane="-27282352#7_1" startPos="47.41" endPos="57.41" lines="213,312" personCapacity="50"/>
+    <busStop id="bs_16" name="Espace Descartes" lane="27282352#6_1" startPos="8.00" endPos="18.00" lines="213,312" personCapacity="50"/>
+    <busStop id="bs_17" name="Noisy Champs - RER - Descartes" lane="1091733345_1" startPos="34.11" endPos="44.11" lines="312" personCapacity="50"/>
+    <busStop id="bs_2" name="Crous" lane="-670297118_1" startPos="16.61" endPos="26.61" lines="100,212,213,312"/>
+    <busStop id="bs_3" name="Nobel" lane="-23792272_0" startPos="32.74" endPos="42.74" lines="212,213,312" personCapacity="50"/>
+    <busStop id="bs_4" name="Nobel" lane="23792272_0" startPos="137.17" endPos="147.17" lines="212,213,312" personCapacity="50"/>
+    <busStop id="bs_5" name="Freres Lumiere - Ifu" lane="-23786199#2_1" startPos="8.08" endPos="18.08" lines="312"/>
+    <busStop id="bs_6" name="freres lumiere - Ipu" lane="27282359#1_1" startPos="24.32" endPos="34.32" lines="312"/>
+    <busStop id="bs_7" name="Bibliotheque" lane="-23714280#5_1" startPos="22.14" endPos="32.14" lines="312" personCapacity="50"/>
+    <busStop id="bs_8" name="Bibliotheque" lane="23714280#5_1" startPos="21.18" endPos="31.18" lines="312" personCapacity="50"/>
+    <busStop id="bs_9" name="Galilee - Pascal" lane="-23714277#4_1" startPos="5.77" endPos="15.77" lines="213" personCapacity="50"/>
+</additional>

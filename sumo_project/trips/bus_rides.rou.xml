@@ -1,0 +1,142 @@
+<routes>
+    <person departPos="0" depart="0" id="312_forward_0"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="0" id="312_forward_1"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="0" id="312_forward_2"><stop busStop="bs_0"/>
+        <ride busStop="bs_4" modes="public"/>
+            </person><person departPos="0" depart="0" id="312_forward_3"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="0" id="312_forward_4"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="0" id="312_forward_5"><stop busStop="bs_0"/>
+        <ride busStop="bs_5" modes="public"/>
+            </person><person departPos="0" depart="0" id="312_forward_6"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="0" id="312_forward_7"><stop busStop="bs_0"/>
+        <ride busStop="bs_5" modes="public"/>
+            </person><person departPos="0" depart="0" id="312_forward_8"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="0" id="312_forward_9"><stop busStop="bs_0"/>
+        <ride busStop="bs_4" modes="public"/>
+            </person><person departPos="0" depart="600" id="312_forward_10"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="600" id="312_forward_11"><stop busStop="bs_0"/>
+        <ride busStop="bs_4" modes="public"/>
+            </person><person departPos="0" depart="600" id="312_forward_12"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="600" id="312_forward_13"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="600" id="312_forward_14"><stop busStop="bs_0"/>
+        <ride busStop="bs_5" modes="public"/>
+            </person><person departPos="0" depart="600" id="312_forward_15"><stop busStop="bs_0"/>
+        <ride busStop="bs_4" modes="public"/>
+            </person><person departPos="0" depart="600" id="312_forward_16"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="600" id="312_forward_17"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="600" id="312_forward_18"><stop busStop="bs_0"/>
+        <ride busStop="bs_4" modes="public"/>
+            </person><person departPos="0" depart="600" id="312_forward_19"><stop busStop="bs_0"/>
+        <ride busStop="bs_5" modes="public"/>
+            </person><person departPos="0" depart="1200" id="312_forward_20"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="1200" id="312_forward_21"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="1200" id="312_forward_22"><stop busStop="bs_0"/>
+        <ride busStop="bs_5" modes="public"/>
+            </person><person departPos="0" depart="1200" id="312_forward_23"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="1200" id="312_forward_24"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="1200" id="312_forward_25"><stop busStop="bs_0"/>
+        <ride busStop="bs_4" modes="public"/>
+            </person><person departPos="0" depart="1200" id="312_forward_26"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="1200" id="312_forward_27"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="1200" id="312_forward_28"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="1200" id="312_forward_29"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="1800" id="312_forward_30"><stop busStop="bs_0"/>
+        <ride busStop="bs_5" modes="public"/>
+            </person><person departPos="0" depart="1800" id="312_forward_31"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="1800" id="312_forward_32"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="1800" id="312_forward_33"><stop busStop="bs_0"/>
+        <ride busStop="bs_4" modes="public"/>
+            </person><person departPos="0" depart="1800" id="312_forward_34"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="1800" id="312_forward_35"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="1800" id="312_forward_36"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="1800" id="312_forward_37"><stop busStop="bs_0"/>
+        <ride busStop="bs_5" modes="public"/>
+            </person><person departPos="0" depart="1800" id="312_forward_38"><stop busStop="bs_0"/>
+        <ride busStop="bs_5" modes="public"/>
+            </person><person departPos="0" depart="1800" id="312_forward_39"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="2400" id="312_forward_40"><stop busStop="bs_0"/>
+        <ride busStop="bs_5" modes="public"/>
+            </person><person departPos="0" depart="2400" id="312_forward_41"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="2400" id="312_forward_42"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="2400" id="312_forward_43"><stop busStop="bs_0"/>
+        <ride busStop="bs_4" modes="public"/>
+            </person><person departPos="0" depart="2400" id="312_forward_44"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="2400" id="312_forward_45"><stop busStop="bs_0"/>
+        <ride busStop="bs_5" modes="public"/>
+            </person><person departPos="0" depart="2400" id="312_forward_46"><stop busStop="bs_0"/>
+        <ride busStop="bs_5" modes="public"/>
+            </person><person departPos="0" depart="2400" id="312_forward_47"><stop busStop="bs_0"/>
+        <ride busStop="bs_4" modes="public"/>
+            </person><person departPos="0" depart="2400" id="312_forward_48"><stop busStop="bs_0"/>
+        <ride busStop="bs_5" modes="public"/>
+            </person><person departPos="0" depart="2400" id="312_forward_49"><stop busStop="bs_0"/>
+        <ride busStop="bs_4" modes="public"/>
+            </person><person departPos="0" depart="3000" id="312_forward_50"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="3000" id="312_forward_51"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="3000" id="312_forward_52"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="3000" id="312_forward_53"><stop busStop="bs_0"/>
+        <ride busStop="bs_5" modes="public"/>
+            </person><person departPos="0" depart="3000" id="312_forward_54"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="3000" id="312_forward_55"><stop busStop="bs_0"/>
+        <ride busStop="bs_5" modes="public"/>
+            </person><person departPos="0" depart="3000" id="312_forward_56"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="3000" id="312_forward_57"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="3000" id="312_forward_58"><stop busStop="bs_0"/>
+        <ride busStop="bs_5" modes="public"/>
+            </person><person departPos="0" depart="3000" id="312_forward_59"><stop busStop="bs_0"/>
+        <ride busStop="bs_5" modes="public"/>
+            </person><person departPos="0" depart="3600" id="312_forward_60"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="3600" id="312_forward_61"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="3600" id="312_forward_62"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="3600" id="312_forward_63"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="3600" id="312_forward_64"><stop busStop="bs_0"/>
+        <ride busStop="bs_5" modes="public"/>
+            </person><person departPos="0" depart="3600" id="312_forward_65"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="3600" id="312_forward_66"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="3600" id="312_forward_67"><stop busStop="bs_0"/>
+        <ride busStop="bs_5" modes="public"/>
+            </person><person departPos="0" depart="3600" id="312_forward_68"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person><person departPos="0" depart="3600" id="312_forward_69"><stop busStop="bs_0"/>
+        <ride busStop="bs_12" modes="public"/>
+            </person></routes>

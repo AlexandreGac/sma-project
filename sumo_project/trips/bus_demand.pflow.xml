@@ -1,0 +1,17 @@
+<routes>
+    <personRoute id="route_312_forward">
+        <stop busStop="bs_0"/>
+        <probability>
+            <probabilityItem probability="0.2">
+                <ride busStop="bs_4" modes="public" />
+            </probabilityItem>
+            <probabilityItem probability="0.5">
+                <ride busStop="bs_12" modes="public" />
+            </probabilityItem>
+            <probabilityItem probability="0.3">
+                <ride busStop="bs_5" modes="public" />
+            </probabilityItem>
+        </probability>
+    </personRoute>
+    <personFlow id="312_forward" begin="0" end="3600" number="7" perWave="10" departPos="0" route="route_312_forward" />
+</routes>
