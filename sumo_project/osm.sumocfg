@@ -33,6 +33,9 @@
     <output>
 		<stop-output value="stops_output.xml" />
 		<tripinfo-output value="trips_output.xml"/>
+        <device.emissions.explicit value="tripinfo_emissions.xml"/>
+        <collisions-output value="collisions.xml"/>
+        <netstate-dump value="full.xml"/>
 	</output>
 
 
