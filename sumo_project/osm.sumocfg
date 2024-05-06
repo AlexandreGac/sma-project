@@ -33,6 +33,8 @@
     <output>
 		<stop-output value="stops_output.xml" />
 		<tripinfo-output value="trips_output.xml"/>
+        <statistic-output value="stats_output.xml">
+        <duration-log.statistics value="average_time.xml">
 	</output>
 
 
