@@ -56,7 +56,7 @@
         <stop busStop="bs_5" duration="20.00"/>
     </route>
     <!-- Vehicles, persons and containers (sorted by depart) -->
-    <!-- Bonjour -->
+  
     <flow id="bus_312_forward" type="bus" begin="00:00:10" end="24:30:00" route="312_forward" period="600" line="312"/>
     <flow id="bus_312_backward" type="bus" begin="00:00:10" end="24:30:00" route="312_backward" period="600" line="312"/>
     <flow id="bus_213_forward" type="bus" begin="00:00:10" end="24:30:00" route="213_forward" period="600" line="213"/>
