@@ -6,7 +6,7 @@
 <configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
 
     <input>
-        <net-file value="osm.net.xml.gz"/>
+        <net-file value="osm.scenario1.2.non.net.xml.gz"/>
         <route-files value="trips/osm.passenger_0.rou.xml,trips/osm.passenger_1.rou.xml,trips/osm.passenger_2.rou.xml,trips/osm.passenger_3.rou.xml,trips/osm.passenger_4.rou.xml,trips/osm.pedestrian_0.rou.xml,trips/osm.pedestrian_1.rou.xml,trips/osm.pedestrian_2.rou.xml,trips/osm.pedestrian_3.rou.xml,trips/osm.pedestrian_4.rou.xml,bus_routes.rou.xml,trips/bus_rides.rou.xml"/>
         <additional-files value="osm.poly.xml.gz,bus_stops.add.xml"/>
     </input>
@@ -30,12 +30,12 @@
         <gui-settings-file value="osm.view.xml"/>
     </gui_only>
 
-    <output>
-		<stop-output value="stops_output.xml" />
-		<tripinfo-output value="trips_output.xml"/>
-        <device.emissions.explicit value="tripinfo_emissions.xml"/>
-        <collisions-output value="collisions.xml"/>
-        <netstate-dump value="full.xml"/>
+	<output>
+	    <stop-output value="Outputs\stops_output.xml" />
+		<tripinfo-output value="Outputs\trips_output.xml"/>
+        <device.emissions.explicit value="Outputs\tripinfo_emissions.xml"/>
+        <collision-output value="Outputs\collisions.xml"/>
+        <emission-output value ="Outputs\Emissions.xml"/>
 	</output>
 
 
